@@ -1,6 +1,3 @@
-# Mathematics for Machine Learning
-
-cat <<EOF > README.md
 # 🧮 Mathematics for Machine Learning  
 
 This repository contains my curated collection of **Jupyter notebooks** and **concept notes** covering the essential mathematical foundations for **Data Science, Artificial Intelligence, and Machine Learning**.  
